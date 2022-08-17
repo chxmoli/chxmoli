@@ -1,4 +1,5 @@
-- 📚 Learning Python & C++
+- 📚 Learning Python & Java
+- 🧑‍💻 Aspiring Data Scientist
 - 🎒 CSE Student 
 - 📍 New Delhi, India
 - 🏫 VIT Vellore
