@@ -1,7 +1,5 @@
-- 📚 Learning Python & Java
-- 🧑‍💻 Aspiring Data Scientist
+- 📚 Python & Java aficionado
 - 🎒 CSE Student 
 - 📍 New Delhi, India
 - 🏫 VIT Vellore
-- 📫 Mail: chxmoli@gmail.com 
-- 🐦 Twitter: justchamoli
+- 📫 Mail: chxmoli@gmail.com
